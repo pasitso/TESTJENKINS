@@ -72,4 +72,3 @@ C:\Users\pasit\Desktop\TESTJENKINS\Jenkins\Jenkin\obj\Release\Jenkin.csproj.Core
 C:\Users\pasit\Desktop\TESTJENKINS\Jenkins\Jenkin\obj\Release\Jenkin.csproj.CopyComplete
 C:\Users\pasit\Desktop\TESTJENKINS\Jenkins\Jenkin\obj\Release\Jenkin.dll
 C:\Users\pasit\Desktop\TESTJENKINS\Jenkins\Jenkin\obj\Release\Jenkin.pdb
-C:\Users\pasit\Desktop\TESTJENKINS\Jenkins\Jenkin\bin\Jenkin.dll.config
